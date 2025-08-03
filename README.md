@@ -18,6 +18,38 @@ Yes, your router now criticizes you. You're welcome.
 
 ---
 
+## FAQ
+
+### Is the code production-ready?
+
+Absolutely not. It’s a mess. Karen would be disappointed if it were clean.  
+You’re lucky it runs at all.
+
+### Why is the code so bad?
+
+Because this isn’t a job interview... it’s a yelling router.  
+I duct-taped network monitoring, OpenAI, TTS, and Python audio playback together... let's just call it "art".
+
+### Is there a setup guide?
+
+Nope. Not yet.  
+If people are actually interested, I *might* write one. Maybe.  
+Right now, you’ll have to read the code try and make it work on your on and (surely) suffer. Just like Karen does.
+
+### Should I run this?
+
+No. But you will anyway.
+
+### What version of Python is this for?
+
+Whatever version was installed when it randomly started working. Try 3.11+.
+
+### Can I contribute?
+
+Yes, but only if your pull request makes the code worse *and* funnier.
+
+---
+
 ## Hardware
 
 - **Router**: something running OpenWRT
